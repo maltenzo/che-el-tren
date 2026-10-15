@@ -1,0 +1,9 @@
+# secretos de firma — NO comitear
+keystore.jks
+keystore.properties
+local.properties
+# build
+.gradle/
+build/
+app/build/
+.kotlin/
