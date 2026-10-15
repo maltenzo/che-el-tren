@@ -1,5 +1,9 @@
 # Che, el tren 🚆
 
+> 🤖 **Desarrollado con IA.** Este proyecto —código, iconos, GTFS procesado y
+> documentación— fue construido en colaboración con un asistente de IA
+> (Claude Code).
+
 App para **Wear OS** (reloj) que muestra los **próximos trenes en vivo** de cualquier
 estación de la red de Trenes Argentinos (SOFSE), con auto-refresh y favoritos.
 
